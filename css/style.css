@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: purple;
+}
+.box{
+    margin: 100px 500px;
+    
+}
+label{
+    font-size: 30px;
+    margin: 20px;
+    padding: 20px;
+   
+}
+input[type="checkbox"]{
+    height: 20px;
+    width: 20px;
+}
+legend{
+    font-size: 30px;
+    background-color: bisque;
+}
+fieldset{
+    background-color: bisque;
+    height: 300px;
+}
+.cut{
+    text-decoration: line-through;
+}
